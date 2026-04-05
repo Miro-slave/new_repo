@@ -1,0 +1,10 @@
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.csproj.AssemblyReference.cache
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.Properties.Resources.resources
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.csproj.GenerateResource.cache
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.csproj.CoreCompileInputs.cache
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\bin\Debug\ProductionUI.exe.config
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\bin\Debug\ProductionUI.exe
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\bin\Debug\ProductionUI.pdb
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.exe
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.pdb
+C:\Users\YF\source\repos\ProductionUI\ProductionUI\obj\Debug\ProductionUI.Form1.resources
